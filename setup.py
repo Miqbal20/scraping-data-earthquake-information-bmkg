@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="latest-data-earthquake-indonesia",
+    name="get-data-earthquake-indonesia",
     version="0.1",
     author="Muhammad Iqbal",
     author_email="miqbal020@hotmail.com",
